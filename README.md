@@ -1,16 +1,29 @@
-## Hi there 👋
+# Azure DevOps & Infrastructure Automation
 
-<!--
-**Haritham16/Haritham16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build hands-on learning projects around cloud infrastructure automation, CI/CD workflows, and container platforms.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Azure Infrastructure Automation with Terraform and Jenkins](https://github.com/Haritham16/azure-terraform-jenkins-portfolio)
+
+A scoped Azure DevOps portfolio project that demonstrates:
+
+- Terraform configuration using the AzureRM provider
+- A reusable Azure Virtual Network and subnet module
+- Environment-level infrastructure composition
+- Jenkins parameters for Terraform plan, apply, and destroy
+- Azure credential references managed through Jenkins Credentials
+
+## Technology focus
+
+Azure • Terraform • Jenkins • Git • Docker • Kubernetes • Ansible
+
+## Portfolio principles
+
+- Document what the repository actually implements
+- Never commit credentials, Terraform state, or environment variable files
+- Review infrastructure plans before applying changes
+
+## Current direction
+
+Developing practical Azure DevOps and infrastructure automation skills through documented, hands-on projects.
